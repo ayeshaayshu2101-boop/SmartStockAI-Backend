@@ -42,6 +42,5 @@ projects:
             databaseName: smartstockai
             user: smartstock
             plan: free
-            diskSizeGB: 1
             region: singapore
             ipAllowList: []
