@@ -8,6 +8,7 @@ projects:
             runtime: docker
             region: singapore
             plan: free
+            healthCheckPath: /
             dockerfilePath: ./Dockerfile
             dockerContext: .
             envVars:
